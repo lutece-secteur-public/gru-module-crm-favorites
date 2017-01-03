@@ -45,18 +45,18 @@
 	</dependency>
     </dependencies>
 	
-    <!--<properties>
-        <componentName>Module customer provisioning OpenAM</componentName>
-        <jiraProjectName>GRUOPENAM</jiraProjectName>
-        <jiraComponentId>12931</jiraComponentId>
+    <properties>
+        <componentName>Module CRM FAVORITES</componentName>
+        <jiraProjectName>MCFAVORITE</jiraProjectName>
+        <jiraComponentId>13662</jiraComponentId>
     </properties>
  
 	
     <scm>
-        <connection>scm:git:https://github.com/lutece-secteur-public/gru-module-customerprovisioning-openam.git</connection>
-        <developerConnection>scm:git:https://github.com/lutece-secteur-public/gru-module-customerprovisioning-openam.git</developerConnection>
-        <url>https://github.com/lutece-secteur-public/gru-module-customerprovisioning-openam.git</url>
+        <connection>scm:git:https://github.com/lutece-secteur-public/gru-module-crm-favorites.git</connection>
+        <developerConnection>scm:git:https://github.com/lutece-secteur-public/gru-module-crm-favorites.git</developerConnection>
+        <url>https://github.com/lutece-secteur-public/gru-module-crm-favorites.git</url>
       <tag>HEAD</tag>
-  </scm>-->
+  </scm>
     
 </project>
