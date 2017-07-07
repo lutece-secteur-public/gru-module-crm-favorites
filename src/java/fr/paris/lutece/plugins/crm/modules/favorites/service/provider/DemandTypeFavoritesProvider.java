@@ -56,6 +56,7 @@ public class DemandTypeFavoritesProvider implements IFavoriteProvider
             favorite.setProviderName( CRM_DEMAND_TYPE_FAVORITES_PROVIDER_NAME );
             favorite.setRemoteId( Integer.toString( demandType.getIdDemandType( ) ) );
             favorite.setUrl( demandType.getUrlResource( ) );
+            favorite.setIsDefault( false );
             listFavorites.add( favorite );
         }
         return listFavorites;
